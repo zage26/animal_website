@@ -1,3 +1,0 @@
-TO-DO:
-- Push up to repository (github)
-- Turn in code
